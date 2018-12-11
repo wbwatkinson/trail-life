@@ -1,3 +1,3 @@
-### [Initial Orientation Training] (initial.md)
+### [Initial Orientation Training](initial.md)
 
 	
